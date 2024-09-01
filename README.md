@@ -79,6 +79,9 @@ Top Arbitrage Opportunities:
 - Backtesting
 - Enter/exit strategy based on bollinger bands
 
+## Credits
+Huge credits goes to [TheQuantStack](https://www.algos.org/) and [HangukQuant](https://hangukquant.com/) for invaluable information, tips, tricks, code snippets, and advice.
+
 
 ## Disclaimer
 
