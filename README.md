@@ -1,6 +1,5 @@
 # Crypto Arbitrage Scanner
-
-This project is a Python-based tool that scans multiple cryptocurrency exchanges for funding rate arbitrage opportunities. It fetches data from various exchanges sequentially, calculates potential arbitrage opportunities, and visualizes the results.
+Scans Hyperliquid, Binance, Bybit, KuCoin, Kraken, and OKX for funding rate arbitrage opportunities. Returns potential arbitrage opportunities and visualizes the results.
 
 ## Features
 
