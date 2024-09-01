@@ -77,6 +77,9 @@ Top Arbitrage Opportunities:
 - Filter out low volume tickers
 - Take into account maker/taker fees on different exchanges
 - SPEED
+- Backtesting
+- Enter/exit strategy based on bollinger bands
+
 
 ## Disclaimer
 
